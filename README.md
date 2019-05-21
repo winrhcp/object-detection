@@ -2,6 +2,7 @@
 object detection using imageai
 
 #installation
+python 3.6
 pip install tensorflow
 
 pip install numpy
